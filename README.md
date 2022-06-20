@@ -1,4 +1,4 @@
-# Redirecting-the-scene
+# Redirecting the scene
 
 ## Aim:
 To Redirecting the scene in the unity engine.
@@ -84,5 +84,5 @@ public class PlayerController : MonoBehaviour
 
 
 ## Result:
-Thus the C# coding is successfully redirecting the scene in the unity engine.
+Thus the above C# coding is successfully redirecting the scene in the unity engine.
 
