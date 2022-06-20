@@ -74,6 +74,14 @@ public class PlayerController : MonoBehaviour
 }
 ```
 ## Output:
+### After the Ball hit the cube:
+
+![img](https://user-images.githubusercontent.com/75413726/174635801-4676141b-2a87-441c-a072-3f0a5426eed8.jpeg)
+
+### Redirected scene:
+
+![img1](https://user-images.githubusercontent.com/75413726/174636016-bed54a4c-df80-4290-9d53-c9fb5091b18a.jpeg)
+
 
 ## Result:
 Thus the C# coding is successfully redirecting the scene in the unity engine.
